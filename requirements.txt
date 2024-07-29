@@ -1,0 +1,16 @@
+os
+time
+faiss
+openai
+pandas
+PyPDF2
+datasets
+requests
+streamlit
+fiass-cpu
+langchain
+transformers
+python-dotenv
+Beatuifulsoup
+huggingface_hub
+streamlit-extras
